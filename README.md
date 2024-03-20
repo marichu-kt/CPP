@@ -4,7 +4,7 @@
 
 Este repositorio está destinado a ayudarte a aprender y practicar programación en C++. Aquí encontrarás ejemplos, ejercicios y recursos para mejorar tus habilidades en este lenguaje de programación.
 
-![Icono de C++](icon.png)
+![Icono de C++](/Images/icon.png)
 
 ## Contenido
 
