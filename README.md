@@ -10,6 +10,6 @@ Este repositorio está destinado a ayudarte a aprender y practicar programación
 
 - 📁 Ejemplos: Ejemplos de código para diferentes conceptos y características de C++.
 - 📁 Ejercicios: Desafíos de programación para poner a prueba tus habilidades en C++.
-- 📚 Recursos: Enlaces a documentación teorica y otras fuentes útiles para aprender más sobre C#.
+- 📚 Recursos: Enlaces a documentación teorica y otras fuentes útiles para aprender más sobre C++.
 
 ¡Explora, aprende y diviértete programando en C++! 🚀
